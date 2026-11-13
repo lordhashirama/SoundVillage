@@ -1,6 +1,3 @@
-Sound Village 0.6.7.9
-=====================
-
 Make audio mods for Marvel Rivals: pick a game sound, give it your own audio,
 and get a finished .pak. The app reads the game directly, so there is nothing
 to export and no other modding tool to install.
