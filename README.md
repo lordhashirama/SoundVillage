@@ -1,4 +1,4 @@
-# Sound Village
+<h1 align="center">Sound Village</h1>
 
 Make audio mods for Marvel Rivals even easier: select a game sound, give it your own audio, and get a finished `.pak`.
 The app reads the game directly, so there is nothing to export and no other modding tool to install.
@@ -6,11 +6,11 @@ It also keeps your installed mods in order: folders, On/Off switches, and adding
 
 Windows 10 and 11. Free software (GPL v3). The source code comes with every download.
 
-## A Special Thank You: Thank You, Tobi
+<h2 align="center">A Special Thank You: Thank You, Tobi</h2>
 
 Sound Village exists because of SoundKit, made by Tobi (BruhLookAtThis). SoundKit made Marvel Rivals audio modding something accessible to anyone willing to learn, and it's where I learned it. Sound Village is a different way of doing the same things: it's a GUI with buttons instead of folders and scripts, but the foundational ideas (including half of the tools found in the Tools tab) were introduced to me by SoundKit. If SoundKit OR Sound Village helped you too, you can thank him at [ko-fi.com/bruhlookatthis](https://ko-fi.com/bruhlookatthis).
 
-## Download and Start
+<h2 align="center">Download and Start</h2>
 
 1. Download `Sound-Village.zip` from the [latest release](../../releases/latest) and unzip it anywhere.
 2. Run `Sound-Village.exe`. Windows may warn about an unknown publisher: click **More info**, then **Run anyway**.
@@ -21,7 +21,7 @@ You need Marvel Rivals installed on the same PC, and an internet connection for 
 
 Already have Sound Village? You do not need this download. The app updates itself: **Settings > App Updates > Check for Updates**.
 
-## What It Does
+<h2 align="center">What It Does</h2>
 
 **Home.** Your mods, in folders you make yourself, each with an On/Off switch. *On Now* shows what goes into the game.
 Add a mod by dropping a `.pak`, `.zip`, `.7z` or `.rar` on the tab. Launch right into Rivals from the Home tab.
@@ -43,7 +43,7 @@ The old version of each mod is kept, and can be put back.
 
 **Themes.** Six themes come with the app under **Settings > Look**. You can mix your own and share one as a line of text.
 
-## What It Will Not Do
+<h2 align="center">What It Will Not Do</h2>
 
 - It never changes your audio files or the game's own files. Both are only read.
 - It never deletes anything without asking. One button deletes outright ("Delete for Good" in Clean Up Loose Files),
@@ -56,19 +56,19 @@ The old version of each mod is kept, and can be put back.
 
 The manual (`README.txt`, also under **Settings > About**) says exactly what the app does to your files.
 
-## Updates
+<h2 align="center">Updates</h2>
 
 The app looks for a newer version when it starts and offers it on the Home tab; nothing is installed by itself.
 An update keeps the version before it, and if a new version cannot start, the app offers to go back.
 When a newer `.exe` is published, the app asks once whether to move to it; nothing of yours moves.
 
-## If Something Goes Wrong
+<h2 align="center">If Something Goes Wrong</h2>
 
 The **Log** tab shows what the app did, job by job, and says what went wrong in plain words.
 **Save Troubleshooting Log** writes one `.zip` you can attach to an issue here on GitHub. A box lists what goes into it first.
 The game key and your account IDs are never in it; your sounds are in it only if you tick them.
 
-## Thanks
+<h2 align="center">Thanks</h2>
 
 The Village Hidden in the Sound stands on the work of a lot of people. Thank you to every one of them.
 
@@ -87,7 +87,7 @@ The Village Hidden in the Sound stands on the work of a lot of people. Thank you
 - **The Python developers and the PyInstaller team**: Sound Village is written in Python, and PyInstaller turns
   it into `Sound-Village.exe`.
 
-## Licence
+<h2 align="center">Licence</h2>
 
 Sound Village is free software under the GNU General Public License v3.0 (see `LICENSE.md`).
 FFmpeg, vgmstream and UAssetTool are each under their own licence.
