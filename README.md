@@ -4,6 +4,9 @@ Make audio mods for Marvel Rivals even easier: select a game sound, give it your
 The app reads the game directly, so there is nothing to export and no other modding tool to install.
 It also keeps your installed mods in order: folders, On/Off switches, and adding mods from a download.
 
+DISCLAIMER: This tool was created and refined with the use of AI.
+Everything generated from this tool is the product of you, the user, however.
+
 Windows 10 and 11. Free software (GPL v3). The source code comes with every download.
 
 <h2 align="center">A Special Thank You: Thank You, Tobi</h2>
