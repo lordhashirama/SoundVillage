@@ -1,7 +1,7 @@
 <h1 align="center">Sound Village</h1>
 
-<h2 align="left">DISCLAIMER: This tool was created and refined with the use of AI.
-Everything generated from this tool, however, is the product of you, the user.</h2>
+<h2 align="left" ><ins>DISCLAIMER: This tool was created and refined with the use of AI.
+Everything generated from this tool, however, is the product of you, the user.</ins></h2>
 
 Make audio mods for Marvel Rivals even easier: select a game sound, give it your own audio, and get a finished `.pak`.
 The app reads the game directly, so there is nothing to export and no other modding tool to install.
@@ -96,4 +96,5 @@ Sound Village is free software under the GNU General Public License v3.0 (see `L
 FFmpeg, vgmstream and UAssetTool are each under their own licence.
 The two typefaces are under the SIL Open Font License; no font file is part of the app.
 
-Sound Village is a fan-made tool. It is not affiliated with Marvel or NetEase.
+<h2 align="center">Sand Village is a fan-made tool. It is not made, endorsed or supported by
+NetEase or Marvel.</h2>
